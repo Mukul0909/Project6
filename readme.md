@@ -19,6 +19,6 @@ Figuring out the way to align the header items in the navigation menu that are n
 
 ## Live link
 
-[Project Link](https://google.com "Netlify")
+[Project Link]([https://liveproject6.com](https://vermillion-cucurucho-fa9219.netlify.app/) "Netlify")
 
 

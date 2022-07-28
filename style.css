@@ -1,0 +1,226 @@
+body{
+    background-color: #f4f3f8;
+    margin: 0;
+    padding: 0;
+    font-family: "Allerta";
+    background-size: cover;
+  }
+
+  #navFirst{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: 1;
+  }
+
+  #navMid{
+    display: block;
+    position: absolute;
+  
+    width: auto;
+    height: 80px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+  }
+
+  #navMid h4{
+    
+    display: block;
+    margin:auto;
+  }
+
+  .navigation{
+    float: left;
+    padding: 57px;
+    position: relative;
+    left: 205px;
+    top: -25px;
+    margin: auto;
+}
+
+#navEnd{
+  /* border-color: red; */
+  position: absolute;
+  top: 0px;
+  right: 40px;
+}
+
+.icons{
+  float:left;
+  display: block;
+  position: relative;
+  top: 10px;
+  right: 30px;
+  
+}
+
+.icons img{
+  padding: 20px;
+ 
+  /* display: block; */
+  position: relative;
+  right: -45px;
+  top: 0px;
+}
+
+#midWholePart11{
+   /* background-color: red;  */
+  position: absolute;
+  display: inline-block;
+  width: 60%;
+  padding-right: 100px;
+  top: 25%;
+}
+
+#imgMain{
+  /* background-color: yellow; */
+  position: absolute;
+  display: block;
+  width: 40%;
+  height: 80%;
+  top: 120px;
+  right: 0px;
+  
+}
+
+#monstera{
+  font-size: 100px;
+  font-weight: bolder;
+  padding-bottom: -60px;
+  margin: 0;
+  margin-bottom: 0px;
+  
+}
+
+#descrip1{
+  /* background-color: blue; */
+  width: 80%;
+  margin-top: 2%;
+}
+
+#descrip2{
+  /* background-color: rgb(0, 255, 221); */
+  width: 80%;
+  margin-top: -0.01em;
+}
+
+
+/* #midWholePart13{
+  background-color: red;
+  position: absolute;
+  top: -10px;
+  width: 50%;
+  
+} */
+ .feeding{
+  /* background-color: aqua; */
+  position: relative;
+  left: 100px;
+  top: -107px;
+  width: 60%;
+  font-size: smaller;
+ }
+
+ .feeding p{
+  position: relative;
+  top: -25px;
+  font-size: 13px;
+ }
+
+ .feeding h4{
+  font-size: 23px;
+ }
+
+ .midWholePart13Parts #light{
+  /* background-color: aqua;  */
+  position: absolute;
+  bottom: 39%;
+  left: 77%;
+ }
+
+ .midWholePart13Parts .light{
+  
+    /* background-color: aqua; */
+    position: relative;
+    left: 90%;
+    top: -234px;
+    width: 60%;
+
+ }
+
+ .light .text{
+  margin-top: -11%;
+  width: 90%;
+  position: relative;
+  top: 5px;
+  font-size: 13px;
+ }
+
+ .light h4{
+  font-size: 23px;
+ }
+
+ #care{
+  /* background-color: aqua; */
+  position: absolute;
+  bottom: 39%;
+  left: 141%;
+ }
+
+ .care1{
+  /* background-color: aqua; */
+  position: relative;
+ 
+    left: 159%;
+    top: -332px;
+    width: 61%;
+ }
+ .care1 h4{
+  font-size: 23px;
+ }
+
+ .care1 .text{
+  margin-top: -8%;
+  width: 90%;
+  font-size: 13px;
+ }
+
+ #midWholePart13{
+  /* background-color: red; */
+  display: inline-block;
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+
+ }
+
+ #midWholePart13{
+  position: absolute;
+  top: 520px;
+
+ }
+
+ #midWholePart12{
+   
+
+  position: absolute;
+  top: 62%;
+  left: 15%;
+ }
+
+ #midWholePart122 img{
+  position: relative;
+  left: 100%;
+  bottom:55px;
+  margin-left: 5%;
+  
+}
+
+ #midWholePart121{
+  font-weight: lighter;
+  color: #fff;
+ }
+
+
